@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java linguage in Digital Innovation One and Big Data in PUC MG in my postgraduate studies.
 - 💞️ I’m looking to collaborate on development of programs that can optimize the day-to-day life of technology companies, in addition to having as a hobby data analysis and database interpretation.
 - 📫 How to reach me : Linkedin https://www.linkedin.com/in/leandra-in%C3%A1cio-de-paula-01a47a145/
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Olá, eu sou @LeandraInácio e sou Engenheira Mecânica pela UFRJ
 - 👀 Meus interesses principais são programação e análise de dados
 - 🌱 Atualmente eu estou aprendendo a linguagem Java atrás das plataformas Digital Innovation One e Curso em vídeo, e Big Data na PUC MG na pós graduação
