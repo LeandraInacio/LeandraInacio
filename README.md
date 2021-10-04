@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @LeandraInacio
+- 👋 Hi, I'm @LeandraInacio, I'm Mechanical Engineer at UFRJ University. 
 - 👀 I’m interested in programming and data analysis
 - 🌱 I’m currently learning Java linguage in Digital Innovation One and Big Data in PUC MG in my postgraduate studies.
-- 💞️ I’m looking to collaborate on desenvolvimento de programas que possam otimizar o dia a dia de empresas de tecnologias, além de ter como hobbie análise de dados e interpretação de bancos de dados.
+- 💞️ I’m looking to collaborate on development of programs that can optimize the day-to-day life of technology companies, in addition to having as a hobby data analysis and database interpretation.
 - 📫 How to reach me : Linkedin https://www.linkedin.com/in/leandra-in%C3%A1cio-de-paula-01a47a145/
 
-<!---
-LeandraInacio/LeandraInacio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, eu sou @LeandraInácio e sou Engenheira Mecânica pela UFRJ
+- 👀 Meus interesses principais são programação e análise de dados
+- 🌱 Atualmente eu estou aprendendo a linguagem Java atrás das plataformas Digital Innovation One e Curso em vídeo, e Big Data na PUC MG na pós graduação
+- 💞️ Procuro colaborar no desenvolvimento de programas que possam otimizar o dia-a-dia das empresas de tecnologia, além de ter como hobby a análise de dados e interpretação de bancos de dados
+- 📫 Você pode entrar em contato comigo pelo Linkedin :https://www.linkedin.com/in/leandra-in%C3%A1cio-de-paula-01a47a145/
