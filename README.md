@@ -1,11 +1,27 @@
-- 👋 Hi, I'm @LeandraInacio, I'm Mechanical Engineer at UFRJ University. 
-- 👀 I’m interested in programming and data analysis
-- 🌱 I’m currently learning Java linguage in Digital Innovation One and Big Data in PUC MG in my postgraduate studies.
-- 💞️ I’m looking to collaborate on development of programs that can optimize the day-to-day life of technology companies, in addition to having as a hobby data analysis and database interpretation.
-- 📫 How to reach me : Linkedin https://www.linkedin.com/in/leandra-in%C3%A1cio-de-paula-01a47a145/
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👋 Olá, eu sou @LeandraInácio e sou Engenheira Mecânica pela UFRJ
-- 👀 Meus interesses principais são programação e análise de dados
-- 🌱 Atualmente eu estou aprendendo a linguagem Java atrás das plataformas Digital Innovation One e Curso em vídeo, e Big Data na PUC MG na pós graduação
-- 💞️ Procuro colaborar no desenvolvimento de programas que possam otimizar o dia-a-dia das empresas de tecnologia, além de ter como hobby a análise de dados e interpretação de bancos de dados
-- 📫 Você pode entrar em contato comigo pelo Linkedin :https://www.linkedin.com/in/leandra-in%C3%A1cio-de-paula-01a47a145/
+## Olá! 
+🧑‍🎓 Sou Engenheira Mecânica pela UFRJ e pós-graduanda em ciência da Dados e Big Data pela PUC-MG
+
+💻 Tenho conhecimento nas linguagens Python e Java
+
+🎯 Procuro colaborar com o desenvolvimento de programas que possam otimizar o dia-a-dia das empresas de tecnologia
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <a href="https://github.com/LeandraInacio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandraInacio&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandraInacio&layout=compact&langs_count=7&theme=calm"/>
+</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  <div>
+  <a href="https://www.linkedin.com/in/leandra-in%C3%A1cio-de-paula-01a47a145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href = "mailto:leandrainaciodepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/leandrainaciodepaula_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
+  </div>
+  
