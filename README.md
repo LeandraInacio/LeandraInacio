@@ -3,7 +3,7 @@
 
 💻 Tenho conhecimento nas linguagens Python e Java
 
-🎯 Procuro colaborar com o desenvolvimento de programas que possam otimizar o dia-a-dia das empresas de tecnologia
+🎯 Procuro colaborar com o desenvolvimento de softwares em empresas de tecnologia utilizando a linguagem Java
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
