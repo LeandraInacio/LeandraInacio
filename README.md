@@ -1,9 +1,9 @@
 ## Olá! 
 🧑‍🎓 Sou Engenheira Mecânica pela UFRJ e pós-graduanda em ciência da Dados e Big Data pela PUC-MG
 
-💻 Tenho conhecimento nas linguagens Python e Java
+💻 Tenho conhecimento nas linguagens Python,Javascript com Jquery, HTML 5 e CSS 3, além de BPM com a plataforma Fluig. Porém minha paixão é Java. 
 
-🎯 Procuro colaborar com o desenvolvimento de softwares em empresas de tecnologia utilizando a linguagem Java
+🎯 Procuro colaborar com o desenvolvimento de softwares em empresas de tecnologia utilizando a linguagem Java. Hoje sou desenvolvedora Java na NTT Data Brasil.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
